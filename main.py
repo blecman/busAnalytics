@@ -2,7 +2,7 @@ from porc import Client
 import utils, time
 from agency import Agency
 
-client = Client("293bdf31-c0f2-48a5-8d81-02b72c5a7de7")
+client = Client("your api key")
 agency = Agency("rutgers")
 
 relevantTags = ['a','b','f','lx']
